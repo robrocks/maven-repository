@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>pro.rrt3ch.odds</groupId>
+  <groupId>org.rrt3ch.tellmetheodds</groupId>
   <artifactId>odds-parent</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.3-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20161130.064909</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20161203.123843</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20161130064909</lastUpdated>
+    <lastUpdated>20161203123843</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.1-20161130.064909-1</value>
-        <updated>20161130064909</updated>
+        <value>1.0.3-20161203.123843-2</value>
+        <updated>20161203123843</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
